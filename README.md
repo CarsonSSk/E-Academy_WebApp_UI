@@ -23,6 +23,8 @@
   - general management of tutors 
   - manage requests 
 
+More functionalities to be discussed and added later. 
+
 ## The Goal Of This Project 
 
   The goal of this project is to build an interface for an E-Academy platform and gain hands-on experience in software engineering requirements elicitation, evaluation, and specification. 
