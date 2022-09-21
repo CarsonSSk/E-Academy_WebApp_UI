@@ -39,6 +39,7 @@ More core features to be discussed and added later.
 
 ## Team Members
 - Victoria Castelli - 40117055 - VCastelli 
+- Jiayi Chen - 40110997 - JIAYI615
 - student name - id - github name 
 
 ## Technologies Used
