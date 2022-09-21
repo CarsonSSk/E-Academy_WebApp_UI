@@ -33,6 +33,8 @@
 - different user accounts for the different types of users 
 - a request system which allows for receiving and attribution of requests
 
+More core features to be discussed and added later. 
+
 ## Team Members
 - student name - id - github name 
 
