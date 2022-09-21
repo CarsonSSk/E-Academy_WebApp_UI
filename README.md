@@ -38,6 +38,7 @@ More functionalities to be discussed and added later.
 More core features to be discussed and added later. 
 
 ## Team Members
+- Victoria Castelli - 40117055 - VCastelli 
 - student name - id - github name 
 
 ## Technologies Used
