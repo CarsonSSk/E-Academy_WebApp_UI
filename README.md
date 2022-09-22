@@ -43,6 +43,7 @@ More core features to be discussed and added later.
 - Zayneb Mehdi - 40109417 - BrainOverfl0w
 - Carson Senthilkumar - 40173515 - CarsonSSk
 - Khaled Owaida - 40119268 - KhaledOwaida
+- Wassim Nijaoui - 40121366 - Nijaoui-Wassim
 
 ## Technologies Used
 
