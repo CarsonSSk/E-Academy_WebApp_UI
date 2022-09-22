@@ -42,7 +42,7 @@ More core features to be discussed and added later.
 - Jiayi Chen - 40110997 - JIAYI615
 - Zayneb Mehdi - 40109417 - BrainOverfl0w
 - Carson Senthilkumar - 40173515 - CarsonSSk
-- student name - id - github name 
+- Khaled Owaida - 40119268 - KhaledOwaida
 
 ## Technologies Used
 
