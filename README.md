@@ -44,6 +44,7 @@ More core features to be discussed and added later.
 - Carson Senthilkumar - 40173515 - CarsonSSk
 - Khaled Owaida - 40119268 - KhaledOwaida
 - Wassim Nijaoui - 40121366 - Nijaoui-Wassim
+- Haris Mahmood - 40135271 - haris2055
 
 ## Technologies Used
 
