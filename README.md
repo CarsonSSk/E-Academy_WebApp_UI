@@ -46,6 +46,7 @@ More core features to be discussed and added later.
 - Wassim Nijaoui - 40121366 - Nijaoui-Wassim
 - Haris Mahmood - 40135271 - haris2055
 - Ziyi Wang - 40167122 - Zeebruh326
+- Louisa-Lina Meziane - 40133119 - Louisa-Lina
 
 ## Technologies Used
 
