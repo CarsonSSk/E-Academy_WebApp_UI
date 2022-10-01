@@ -47,6 +47,7 @@ More core features to be discussed and added later.
 - Haris Mahmood - 40135271 - haris2055
 - Ziyi Wang - 40167122 - Zeebruh326
 - Louisa-Lina Meziane - 40133119 - Louisa-Lina
+- Zachary Bruce – 40136585 – z-bruce
 
 ## Technologies Used
 
