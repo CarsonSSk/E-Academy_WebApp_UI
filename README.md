@@ -70,7 +70,7 @@
 ## Core Features
 
   The current core features for our project are: 
-- different user accounts for the different types of users 
+- different user accounts for the different types of users: Admin, Tutors, Students/Parents, Guests
 - a request system which allows for receiving and attribution of requests
 
 More core features to be discussed and added later. 
