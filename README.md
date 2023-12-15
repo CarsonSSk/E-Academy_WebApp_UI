@@ -1,4 +1,4 @@
-# SOEN342-Cypher-E-Academy  
+# Cypher-E-Academy  
 
 ## The Task 
 
